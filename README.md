@@ -1,5 +1,5 @@
 # SimpleExcelDSL
-Just simple DLS for apache.poi with excel <br />
+Just simple DSL for apache.poi with excel <br />
 Work with apache poi like kotlinx.html<br />
 <b>P.S.<br />
 Or not, it's just simple example:D <br />
